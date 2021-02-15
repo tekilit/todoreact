@@ -1,0 +1,10 @@
+
+
+
+.input {
+  margin: 100px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding: 15px;
+}
